@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/nvidia/f110_ws/src
+# Build directory: /home/nvidia/f110_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs(gtest)
+subdirs(cartographer_config/f110_description)
+subdirs(system/joystick_drivers/joystick_drivers)
+subdirs(lidar_map)
+subdirs(system/racecar/racecar)
+subdirs(simulator/racecar-simulator/racecar_control)
+subdirs(system/racecar/racecar-controllers/racecar_controllers)
+subdirs(simulator/racecar-simulator/racecar_description)
+subdirs(system/serial)
+subdirs(system/ackermann_msgs)
+subdirs(system/vesc/vesc)
+subdirs(system/vesc/vesc_msgs)
+subdirs(labs/circle)
+subdirs(labs/gap_finding)
+subdirs(labs/lab_pure_pursuit)
+subdirs(labs/localization)
+subdirs(system/racecar/ackermann_cmd_mux)
+subdirs(system/hokuyo_node)
+subdirs(system/joystick_drivers/joy)
+subdirs(labs/particle_filter)
+subdirs(system/racecar/racecar-controllers/racecar_potential_field_controller)
+subdirs(system/racecar/racecar-controllers/racecar_safety_controller)
+subdirs(labs/message_to_tf)
+subdirs(simulator/f1_10_sim/race)
+subdirs(simulator/racecar-simulator/racecar_gazebo)
+subdirs(system/vesc/vesc_ackermann)
+subdirs(system/vesc/vesc_driver)
+subdirs(path_planning/teb_local_planner)
+subdirs(labs/wall_following)
+subdirs(labs/waypoint_logger)

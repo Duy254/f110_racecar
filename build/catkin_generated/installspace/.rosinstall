@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/f110_ws/install/setup.sh

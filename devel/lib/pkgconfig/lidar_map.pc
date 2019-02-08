@@ -1,0 +1,8 @@
+prefix=/home/nvidia/f110_ws/devel
+
+Name: lidar_map
+Description: Description of lidar_map
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/f110_ws/devel/lib 
+Requires: 
